@@ -95,3 +95,7 @@ All programs and functions were compiled with gcc 4.8.4 using flags -Wall -Werro
 
 Styling
 All files have been written in the Betty Style.
+
+# Authors
+Bennet Ukoh - bennetukoh@gmail.com
+Ejomafuvwe Ofonodo - amplifiedmatt@gmail.com
